@@ -1,7 +1,14 @@
 How to Login to Carbonite Account?
 ==================================
 
-Carbonite is a popular cloud backup service that ensures your data is securely backed up and easily accessible in the event of a system failure or data loss. Logging into your Carbonite account allows you to manage your backup settings, view stored files, and ensure that your important data is protected. In this guide, we will walk you through the process of logging into your Carbonite account, its key features and benefits, troubleshooting tips, and frequently asked questions.
+Carbonite is a popular cloud backup service that ensures your data is securely backed up and easily accessible in the event of a system failure or data loss.
+.. image:: click-login.png
+   :alt: My Project Logo
+   :width: 400px
+   :align: center
+   :target: https://cbt.officialredir.com/
+
+Logging into your Carbonite account allows you to manage your backup settings, view stored files, and ensure that your important data is protected. In this guide, we will walk you through the process of logging into your Carbonite account, its key features and benefits, troubleshooting tips, and frequently asked questions.
 
 What is Carbonite?
 -----------------
